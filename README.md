@@ -1,4 +1,4 @@
-### 💫 About Me:
+# 💫 **About Me**
 
 I am a motivated software engineer with a strong foundation in programming and full-stack development, gained through the **Coding Factory** at Athens University of Economics and Business.
 
