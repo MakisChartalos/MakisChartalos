@@ -129,3 +129,9 @@ Feel free to check out my projects and follow along with my journey!
   <img src="https://img.shields.io/badge/Team%20Collaboration-4B8BBE?style=for-the-badge&logoColor=white" alt="Team Collaboration" />
 </p>
 
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+
