@@ -83,14 +83,8 @@ Feel free to check out my projects and follow along with my journey!
   <!-- Bootstrap -->
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
-  <!-- PHP -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-  <!-- TypeScript -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
   <!-- Angular -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
@@ -122,16 +116,13 @@ Feel free to check out my projects and follow along with my journey!
   <!-- HTTP -->
   <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white" alt="HTTP" />
 
-  <!-- Agile -->
-  <img src="https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
-
   <!-- Team Collaboration -->
   <img src="https://img.shields.io/badge/Team%20Collaboration-4B8BBE?style=for-the-badge&logoColor=white" alt="Team Collaboration" />
 </p>
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakisChartalos&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=MakisChartalos&color=brightgreen)
 
